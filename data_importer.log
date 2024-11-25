@@ -1,0 +1,26 @@
+2024-11-25 17:43:07,520 - ERROR - Failed to load database configuration: while scanning a simple key
+  in "config/config.yaml", line 6, column 3
+could not find expected ':'
+  in "config/config.yaml", line 6, column 26
+2024-11-25 17:43:18,212 - ERROR - Failed to load database configuration: while scanning a simple key
+  in "config/config.yaml", line 6, column 3
+could not find expected ':'
+  in "config/config.yaml", line 6, column 26
+2024-11-25 17:46:53,657 - ERROR - Failed to load database configuration: while scanning a simple key
+  in "config/config.yaml", line 6, column 3
+could not find expected ':'
+  in "config/config.yaml", line 6, column 26
+2024-11-25 17:49:06,615 - INFO - Database connected successfully.
+2024-11-25 17:49:06,624 - INFO - Inserted phone data successfully: 1
+2024-11-25 17:49:06,627 - INFO - Inserted phone data successfully: 2
+2024-11-25 17:49:06,629 - INFO - Inserted phone data successfully: 3
+2024-11-25 17:49:06,630 - INFO - Inserted phone data successfully: 4
+2024-11-25 17:49:06,633 - INFO - Inserted phone data successfully: 5
+2024-11-25 17:49:06,635 - INFO - Inserted phone data successfully: 6
+2024-11-25 17:49:06,638 - INFO - Inserted phone data successfully: 7
+2024-11-25 17:49:06,640 - INFO - Inserted phone data successfully: 8
+2024-11-25 17:49:06,643 - INFO - Inserted phone data successfully: 9
+2024-11-25 17:49:06,645 - INFO - Inserted phone data successfully: 10
+2024-11-25 17:49:06,646 - INFO - Inserted phone data successfully: 11
+2024-11-25 17:49:06,648 - INFO - Inserted phone data successfully: 12
+2024-11-25 17:49:06,650 - INFO - Inserted phone data successfully: 13
